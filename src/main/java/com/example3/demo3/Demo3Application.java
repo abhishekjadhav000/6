@@ -9,7 +9,7 @@ public class Demo3Application {
 	public static void main(String[] args) {
         string name = "abhi" ;
 		int x = 100 ;
-		int y = 200;
+		boolean a = false;
 		SpringApplication.run(Demo3Application.class, args);
 	}
 
